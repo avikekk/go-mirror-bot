@@ -1,0 +1,6 @@
+   BOT_TOKEN = ""
+   ARIA_DOWNLOAD_LOCATION = "/home/avitu/projekts/go-mirror-bot/downloads"
+   SUDO_USERS = [214XXXXX]
+   AUTHORIZED_CHATS = [214XXXX]
+   GDRIVE_PARENT_DIR_ID = "ID"
+   CLOUDFLARE_INDEX = "https://your-domain.com/0:/Users/avisek/temp"
