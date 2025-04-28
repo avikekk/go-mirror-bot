@@ -9,7 +9,7 @@ cd go-mirror-bot
 
 Create a `config.toml` file in the root directory with the following content:
 
-```toml
+```
 BOT_TOKEN = "your_telegram_bot_token"
 ARIA_DOWNLOAD_LOCATION = "/absolute/path/to/download/directory"
 SUDO_USERS = [your_telegram_user_id]
